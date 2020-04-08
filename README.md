@@ -8,5 +8,5 @@ GUI developed in Tkinter:
 
 Dashboard developed in Power BI:
 
-![dashb1]()
-![dashb2]()
+![dashb1](https://github.com/tibipin/E-mail-SLA-Calculator/blob/master/dashbQRT.png)
+![dashb2](https://github.com/tibipin/E-mail-SLA-Calculator/blob/master/dashUSG.png)
