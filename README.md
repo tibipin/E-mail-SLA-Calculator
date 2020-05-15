@@ -6,4 +6,4 @@ Data analysis ecosystem that connects to a generic mailbox in outlook and perfor
  
  - Dashboard based on results developed in Power BI
 
-![Alt Text]()
+![Alt Text](https://github.com/tibipin/E-mail-SLA-Calculator/blob/master/E-mail-SLA-calculator.gif)
