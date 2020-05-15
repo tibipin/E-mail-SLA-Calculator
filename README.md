@@ -5,3 +5,5 @@ Data analysis ecosystem that connects to a generic mailbox in outlook and perfor
  - GUI developed in Tkinter
  
  - Dashboard based on results developed in Power BI
+
+![Alt Text]()
