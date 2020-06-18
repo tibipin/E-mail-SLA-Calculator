@@ -1,9 +1,6 @@
 # E-mail-SLA-Calculator
 
-Data analysis ecosystem that connects to a generic mailbox in outlook and performs BI calculations with pandas to detect the response time for each query.
-
- - GUI developed in Tkinter
- 
- - Dashboard based on results developed in Power BI
-
-![Alt Text](https://github.com/tibipin/E-mail-SLA-Calculator/blob/master/E-mail-SLA-calculator%20(1).gif)
+An analytics tool that connects to a generic mailbox, separates e-mail conversations into distinct queries and calculates the response time of each e-mail.
+If the e-mail is sent from the generic mailbox, the tool scans the body of an e-mail and detects the team-member that sent the e-mail.
+It is possible to add or delete team members based on a database created in mysql.
+The Power BI dashboard gives an overview of how the SLA was achieved and shows the workload distribution across the team.
