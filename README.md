@@ -1,4 +1,4 @@
-# E-mail-SLA-Calculator
+# E-mail SLA Calculator
 
 An analytics tool that connects to a generic mailbox, separates e-mail conversations into distinct queries and calculates the response time of each e-mail.
 If the e-mail is sent from the generic mailbox, the tool scans the body of an e-mail and detects the team-member that sent the e-mail.
